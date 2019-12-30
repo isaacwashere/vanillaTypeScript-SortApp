@@ -24,10 +24,10 @@ This is a small, HTML and Vanilla TS, app that allows a user to sort an array of
 
 ## Notable Technologies/Functions/Methods
 
-| Technology/Function |                  Purpose                   |
-| ------------------- | :----------------------------------------: |
-| Vanilla TS          | Functionality without any boilerplate code |
-| Principles of OOP   |        Write code with ES6 Classes         |
+| Technology/Function |                         Purpose                         |
+| ------------------- | :-----------------------------------------------------: |
+| Vanilla TS          |       Functionality without any boilerplate code        |
+| Principles of OOP   | Write code taking advantage of classes/inheritance etc. |
 
 - Using a traditional understanding of Vanilla TS classes to handle sharing of methods
 - using an abstract class to allow other classes to inherit the parent sort method
